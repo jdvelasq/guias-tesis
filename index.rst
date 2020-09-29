@@ -7,8 +7,10 @@ Guías para la elaboración de propuestas, trabajos finales y tesis
     :hidden:
     :titlesonly:
 
-    mapeo-sistematico-y-RSL/index
+    definicion
+    mapeo-sistematico/index
     tesis-de-doctorado/index
+    escritura
 
 
 **Docente responsable:** 
