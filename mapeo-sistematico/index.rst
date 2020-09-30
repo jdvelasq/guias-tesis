@@ -21,7 +21,7 @@ El trabajo está dividido en dos partes, así:
     3. Protocolo de la investigación
     4. Resultados obtenidos (preliminar)
     5. Cronograma (esta sección no va en documento final).
-    6. Metodología (esta sección no va en documento final).
+    6. Actividades (esta sección no va en documento final).
 
 
 * Desarrollo del trabajo final (Semestre 2)
@@ -33,7 +33,17 @@ El trabajo está dividido en dos partes, así:
 .. toctree::
     :maxdepth: 1
 
+Ejemplos
+############################################################################################
+
+Use los siguientes documentos como ejemplos para elaborar su documento. Especificamente debe 
+ubicar los párrafos y secciones indicadas en el resto de esta sección dentro de los papers 
+indicados como ejemplos. Use el correspondiente párrafo o párrafos como ejemplos para realizar 
+el suyo.
+
     
+
+
 Introducción
 ############################################################################################
 
